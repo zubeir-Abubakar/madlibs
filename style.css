@@ -1,0 +1,11 @@
+#story {
+  display: none;
+}
+body{
+  font-style: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2{
+  color:brown;
+}
